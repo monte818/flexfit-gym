@@ -223,8 +223,32 @@ body{
     background-color: rgba(0,0,0, 0.2);
 }
 #sign-up-div{
-    margin-top: 6vw;
+    margin-top: 2vw;
 }
 #up-body{
     background-color: black;
+}
+
+#store-body{
+    background-color: rgb(97, 89, 80);
+}
+
+#navbarNav{
+    justify-content: end;
+    grid-gap: 2vw;
+}
+.card-img-top{
+    align-items: center;
+    justify-content: center;
+    height: 18vw;
+    width: 18vw;
+    margin-left: 4vw;
+}
+.card-img-bot{
+    height: 18vw;
+    width: 11vw;
+    margin-left: 7vw;
+}
+.card-text{
+    color: black;
 }
